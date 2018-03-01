@@ -1,0 +1,18 @@
+F:\Franco\OptativaC#\Codigo\AlmacenPepito\AlmacenPepito\obj\Debug\AlmacenPepito.csprojResolveAssemblyReference.cache
+F:\Franco\OptativaC#\Codigo\AlmacenPepito\AlmacenPepito\bin\Debug\AlmacenPepito.exe.config
+F:\Franco\OptativaC#\Codigo\AlmacenPepito\AlmacenPepito\bin\Debug\AlmacenPepito.exe
+F:\Franco\OptativaC#\Codigo\AlmacenPepito\AlmacenPepito\bin\Debug\AlmacenPepito.pdb
+F:\Franco\OptativaC#\Codigo\AlmacenPepito\AlmacenPepito\obj\Debug\AlmacenPepito.exe
+F:\Franco\OptativaC#\Codigo\AlmacenPepito\AlmacenPepito\obj\Debug\AlmacenPepito.pdb
+D:\Prog C# para WEB\GitHub_Pepito\AlmacenPepito\AlmacenPepito\AlmacenPepito\bin\Debug\AlmacenPepito.exe.config
+D:\Prog C# para WEB\GitHub_Pepito\AlmacenPepito\AlmacenPepito\AlmacenPepito\bin\Debug\AlmacenPepito.exe
+D:\Prog C# para WEB\GitHub_Pepito\AlmacenPepito\AlmacenPepito\AlmacenPepito\bin\Debug\AlmacenPepito.pdb
+D:\Prog C# para WEB\GitHub_Pepito\AlmacenPepito\AlmacenPepito\AlmacenPepito\obj\Debug\AlmacenPepito.csprojResolveAssemblyReference.cache
+D:\Prog C# para WEB\GitHub_Pepito\AlmacenPepito\AlmacenPepito\AlmacenPepito\obj\Debug\AlmacenPepito.exe
+D:\Prog C# para WEB\GitHub_Pepito\AlmacenPepito\AlmacenPepito\AlmacenPepito\obj\Debug\AlmacenPepito.pdb
+D:\Franco\OptativaC#\AlmacenPepito\AlmacenPepito\AlmacenPepito\obj\Debug\AlmacenPepito.csprojResolveAssemblyReference.cache
+D:\Franco\OptativaC#\AlmacenPepito\AlmacenPepito\AlmacenPepito\obj\Debug\AlmacenPepito.exe
+D:\Franco\OptativaC#\AlmacenPepito\AlmacenPepito\AlmacenPepito\bin\Debug\AlmacenPepito.exe.config
+D:\Franco\OptativaC#\AlmacenPepito\AlmacenPepito\AlmacenPepito\bin\Debug\AlmacenPepito.exe
+D:\Franco\OptativaC#\AlmacenPepito\AlmacenPepito\AlmacenPepito\bin\Debug\AlmacenPepito.pdb
+D:\Franco\OptativaC#\AlmacenPepito\AlmacenPepito\AlmacenPepito\obj\Debug\AlmacenPepito.pdb
